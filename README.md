@@ -1,4 +1,5 @@
 Gesturerecognization
+
 There may occur a situation where there is sudden requirement of camera and that moment is so  instant that there is not enough time to open camera or any other capturing device.This is the point where Raspberry Pi comes handy as it is a IoT device it can be turned on or off anytime.A specific gesture can be set through which image can be clicked by any capture device in our case it is Android Camera connected to Raspberry Pi by online server . 
 
 #How to use:
